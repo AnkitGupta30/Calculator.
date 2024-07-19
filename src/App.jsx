@@ -58,7 +58,7 @@ function App() {
     <>
       <Navbar />
       <div className="bg-gray-300 lg:h-[91.5vh]">
-        <div className="max-w-screen-lg mx-auto h-[90%]">
+        <div className="max-w-screen-lg mx-auto h-[90vh]">
           <h1 className="text-2xl text-center font-bold pt-12">
             My Own Calculator
           </h1>
